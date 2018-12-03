@@ -1,6 +1,8 @@
 /**
  * @(#) Club.java
  */
+// Moi Gelel Je commente
+
 package FFSSM;
 
 import java.util.HashSet;
