@@ -1,7 +1,7 @@
 /**
  * @(#) Club.java
  */
-// Moi Gelel Je commente
+// Moi Bryan Je commente à la place Gelel
 
 package FFSSM;
 
